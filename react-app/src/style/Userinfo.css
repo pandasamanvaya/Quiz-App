@@ -1,0 +1,12 @@
+.Userinfo{
+  text-align: left;
+}
+.Userinfo ul {
+    background: #3399ff;
+    padding: 20px;
+}
+
+.Userinfo ul li {
+    background: #cce5ff;
+    margin: 5px;
+}

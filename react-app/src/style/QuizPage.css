@@ -1,0 +1,40 @@
+.App {
+  font-size: 1.5em;
+  text-align: center;
+}
+
+.Sports {
+  width: 25%;
+  heigth: 25%;
+  border: 1px solid gray;
+}
+
+button1 {
+  border-radius: 19px;
+  padding: 100px 100px;
+  background-color: #008CBA;
+  transition-duration: 0.4s;
+  display: inline-block;
+  position: fixed;
+  top: 45%;
+  left: 20%;
+}
+
+button1:hover {
+  background-color: #4CAF50;
+}
+
+button2 {
+  border-radius: 19px;
+  padding: 100px 100px;
+  background-color: #008CBA;
+  transition-duration: 0.4s;
+  display: inline-block;
+  position: fixed;
+  top: 45%;
+  right: 20%;
+}
+
+button2:hover {
+  background-color: #4CAF50;
+}

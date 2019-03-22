@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #222;
+  height: 70px;
+  padding: 5px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+button1 {
+  border-radius: 19px;
+  padding: 10px 10px;
+  background-color: #008CBA;
+  transition-duration: 0.4s;
+  display: inline-block;
+  position: fixed;
+  top: 45%;
+  left: 50%;
+}
+button2 {
+  border-radius: 19px;
+  padding: 100px 100px;
+  background-color: #008CBA;
+  transition-duration: 0.4s;
+  display: inline-block;
+  position: fixed;
+  top: 45%;
+  right: 20%;
+}

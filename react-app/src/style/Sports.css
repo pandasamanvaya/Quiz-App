@@ -1,0 +1,7 @@
+.Question {
+  text-align: left;
+}
+
+.Question > item.no{
+  color: green;
+}
